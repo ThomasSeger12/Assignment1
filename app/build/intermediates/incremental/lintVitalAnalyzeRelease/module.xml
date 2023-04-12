@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="C:\Bentley University 2019-2023\Senior Year 2022-2023\Semester 2\CS480\app"
+    name=":app"
+    type="APP"
+    maven="Assignment1:app:"
+    gradle="7.4.1"
+    buildFolder="build"
+    bootClassPath="C:\Users\Eric\AppData\Local\Android\Sdk\platforms\android-33\android.jar;C:\Users\Eric\AppData\Local\Android\Sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
