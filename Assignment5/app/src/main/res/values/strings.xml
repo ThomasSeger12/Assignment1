@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment 5</string>
+
+    <string-array name="student_resources">
+        <item>Choose a Resource</item>
+        <item>Public Library</item>
+        <item>SF Restaurant Guide</item>
+        <item>SF Transit Overview</item>
+        <item>Things to Do</item>
+        <item>Sporting Events</item>
+    </string-array>
+</resources>
